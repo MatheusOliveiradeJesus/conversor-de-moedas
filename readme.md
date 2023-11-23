@@ -1,0 +1,1 @@
+Olá, esse projeto é sobre um conversor de moedas.
